@@ -1,8 +1,139 @@
-region,countries
-South Asia,"Afghanistan,Bangladesh,Bhutan,India,Nepal,Pakistan,Sri Lanka"
-East Asia and Pacific,"Australia,Cambodia,China,Indonesia,Japan,Laos,South Korea, North Korea,Malaysia,Myanmar,New Zealand,Philippines,Thailand,Vietnam"
-Sub-Saharan Africa,"Angola,Benin,Botswana,Burkina Faso,Burundi,Cameroon,Central African Republic,Chad,Congo,Cote d'Ivoire,Equatorial Guinea,Eritrea,Eswatini,Ethiopia,Gabon,Gambia,Ghana,Guinea,Guinea-Bissau,Kenya,Lesotho,Liberia,Madagascar,Malawi,Mali,Mauritania,Mozambique,Namibia,Niger,Nigeria,Rwanda,Senegal,Sierra Leone,Somalia,South Africa,South Sudan,Sudan,Tanzania,Togo,Uganda,Zambia,Zimbabwe"
-Middle East and North Africa,"Algeria,Egypt,Iran,Iraq,Israel,Jordan,Lebanon,Libya,Morocco,Oman,Saudi Arabia,Syria,Tunisia,Yemen"
-Europe and Central Asia,"Hungary,Belarus,Austria,Serbia,Switzerland,Germany,Bulgaria,United Kingdom,France,Italy,Denmark,Finland,Slovakia,Norway,Ireland,Spain,Ukraine,Croatia,Moldova,Poland,Iceland,Bosnia and Herzegovina,Albania,Lithuania,North Macedonia,Slovenia,Romania,Latvia,Netherlands,Russia,Estonia,Belgium,Czechia,Greece,Portugal,Sweden,Kazakhstan,Kyrgyzstan,Tajikistan,Turkmenistan,Uzbekistan"
-Latin America and Caribbean,"Honduras,Guyana,Paraguay,Nicaragua,El Salvador,Suriname,Costa Rica,Colombia,Argentina,Panama,Belize,Uruguay,Peru,Venezuela,Brazil,Chile,Guatemala,Ecuador,Mexico,Bolivia"
-North America,""
+country,region
+Afghanistan,South Asia
+Albania,Europe and Central Asia
+Algeria,Middle East and North Africa
+Angola,Sub-Saharan Africa
+Argentina,Latin America and Caribbean
+Australia,East Asia and Pacific
+Austria,Europe and Central Asia
+Bangladesh,South Asia
+Belarus,Europe and Central Asia
+Belgium,Europe and Central Asia
+Belize,Latin America and Caribbean
+Benin,Sub-Saharan Africa
+Bhutan,South Asia
+Bolivia,Latin America and Caribbean
+Bosnia and Herzegovina,Europe and Central Asia
+Botswana,Sub-Saharan Africa
+Brazil,Latin America and Caribbean
+Bulgaria,Europe and Central Asia
+Burkina Faso,Sub-Saharan Africa
+Burundi,Sub-Saharan Africa
+Cambodia,East Asia and Pacific
+Cameroon,Sub-Saharan Africa
+Central African Republic,Sub-Saharan Africa
+Chad,Sub-Saharan Africa
+Chile,Latin America and Caribbean
+China,East Asia and Pacific
+Colombia,Latin America and Caribbean
+Congo,Sub-Saharan Africa
+Costa Rica,Latin America and Caribbean
+Cote d'Ivoire,Sub-Saharan Africa
+Croatia,Europe and Central Asia
+Czechia,Europe and Central Asia
+Denmark,Europe and Central Asia
+Ecuador,Latin America and Caribbean
+Egypt,Middle East and North Africa
+El Salvador,Latin America and Caribbean
+Equatorial Guinea,Sub-Saharan Africa
+Eritrea,Sub-Saharan Africa
+Estonia,Europe and Central Asia
+Eswatini,Sub-Saharan Africa
+Ethiopia,Sub-Saharan Africa
+Finland,Europe and Central Asia
+France,Europe and Central Asia
+Gabon,Sub-Saharan Africa
+Gambia,Sub-Saharan Africa
+Germany,Europe and Central Asia
+Ghana,Sub-Saharan Africa
+Greece,Europe and Central Asia
+Guatemala,Latin America and Caribbean
+Guinea,Sub-Saharan Africa
+Guinea-Bissau,Sub-Saharan Africa
+Guyana,Latin America and Caribbean
+Honduras,Latin America and Caribbean
+Hungary,Europe and Central Asia
+Iceland,Europe and Central Asia
+India,South Asia
+Indonesia,East Asia and Pacific
+Iran,Middle East and North Africa
+Iraq,Middle East and North Africa
+Ireland,Europe and Central Asia
+Israel,Middle East and North Africa
+Italy,Europe and Central Asia
+Japan,East Asia and Pacific
+Jordan,Middle East and North Africa
+Kazakhstan,Europe and Central Asia
+Kenya,Sub-Saharan Africa
+Kyrgyzstan,Europe and Central Asia
+Laos,East Asia and Pacific
+Latvia,Europe and Central Asia
+Lebanon,Middle East and North Africa
+Lesotho,Sub-Saharan Africa
+Liberia,Sub-Saharan Africa
+Libya,Middle East and North Africa
+Lithuania,Europe and Central Asia
+Madagascar,Sub-Saharan Africa
+Malawi,Sub-Saharan Africa
+Malaysia,East Asia and Pacific
+Mali,Sub-Saharan Africa
+Mauritania,Sub-Saharan Africa
+Mexico,Latin America and Caribbean
+Moldova,Europe and Central Asia
+Morocco,Middle East and North Africa
+Mozambique,Sub-Saharan Africa
+Myanmar,East Asia and Pacific
+Namibia,Sub-Saharan Africa
+Nepal,South Asia
+Netherlands,Europe and Central Asia
+New Zealand,East Asia and Pacific
+Nicaragua,Latin America and Caribbean
+Niger,Sub-Saharan Africa
+Nigeria,Sub-Saharan Africa
+North Korea,East Asia and Pacific
+North Macedonia,Europe and Central Asia
+Norway,Europe and Central Asia
+Oman,Middle East and North Africa
+Pakistan,South Asia
+Panama,Latin America and Caribbean
+Paraguay,Latin America and Caribbean
+Peru,Latin America and Caribbean
+Philippines,East Asia and Pacific
+Poland,Europe and Central Asia
+Portugal,Europe and Central Asia
+Romania,Europe and Central Asia
+Russia,Europe and Central Asia
+Rwanda,Sub-Saharan Africa
+Saudi Arabia,Middle East and North Africa
+Senegal,Sub-Saharan Africa
+Serbia,Europe and Central Asia
+Sierra Leone,Sub-Saharan Africa
+Slovakia,Europe and Central Asia
+Slovenia,Europe and Central Asia
+Somalia,Sub-Saharan Africa
+South Africa,Sub-Saharan Africa
+South Korea,East Asia and Pacific
+South Sudan,Sub-Saharan Africa
+Spain,Europe and Central Asia
+Sri Lanka,South Asia
+Sudan,Sub-Saharan Africa
+Suriname,Latin America and Caribbean
+Sweden,Europe and Central Asia
+Switzerland,Europe and Central Asia
+Syria,Middle East and North Africa
+Tajikistan,Europe and Central Asia
+Tanzania,Sub-Saharan Africa
+Thailand,East Asia and Pacific
+Togo,Sub-Saharan Africa
+Tunisia,Middle East and North Africa
+Turkmenistan,Europe and Central Asia
+Uganda,Sub-Saharan Africa
+Ukraine,Europe and Central Asia
+United Kingdom,Europe and Central Asia
+Uruguay,Latin America and Caribbean
+Uzbekistan,Europe and Central Asia
+Venezuela,Latin America and Caribbean
+Vietnam,East Asia and Pacific
+Yemen,Middle East and North Africa
+Zambia,Sub-Saharan Africa
+Zimbabwe,Sub-Saharan Africa
